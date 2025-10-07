@@ -1,4 +1,5 @@
 # Hi 👋, I'm Krushna
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 I’m a passionate **Data Engineer** with experience in building scalable data pipelines and analytics solutions.  
 I work with modern data tools like **AWS, Databricks, Delta Lake, and PySpark**.
@@ -21,7 +22,3 @@ I work with modern data tools like **AWS, Databricks, Delta Lake, and PySpark**.
 
 ### 🛠️ Tools & Technologies
 💽 PySpark • Azure Data Factory • Delta Lake • SQL • Power BI • Python • Spark • Airflow • AWS  
-
----
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif">
