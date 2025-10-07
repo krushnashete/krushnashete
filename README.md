@@ -23,4 +23,4 @@ I work with modern data tools like **AWS, Databricks, Delta Lake, and PySpark**.
 ### 🛠️ Tools & Technologies
 💽 PySpark • Azure Data Factory • Delta Lake • SQL • Power BI • Python • Spark • Airflow • AWS  
 
-<div style="width:100%;height:0;padding-bottom:72%;position:relative;"><iframe src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="480" height="346" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP">via GIPHY</a></p>
